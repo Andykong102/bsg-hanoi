@@ -81,10 +81,4 @@
     *   AWS S3 (配置为静态网站托管)
     *   等等...
 
-## 注意 (Note)
 
-*   项目中的 `qrcode.png` 文件是一个占位符图片。在您部署或分享时，请务必将其替换为您自己的有效二维码图片。
-
----
-
-(可以根据需要添加贡献指南或许可证信息 / Add Contributing guidelines or License information if desired)
